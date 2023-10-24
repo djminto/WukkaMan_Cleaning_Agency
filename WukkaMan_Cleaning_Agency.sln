@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WukkaMan_CleaningApi", "WukkaMan_CleaningApi.csproj", "{1C281C75-ED01-4A70-839B-2D8887850ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C281C75-ED01-4A70-839B-2D8887850ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C281C75-ED01-4A70-839B-2D8887850ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C281C75-ED01-4A70-839B-2D8887850ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C281C75-ED01-4A70-839B-2D8887850ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5392F776-ECE8-4687-9B8C-9274E823323B}
+	EndGlobalSection
+EndGlobal
